@@ -85,7 +85,6 @@ The Power BI dashboard provides an interactive view of customer behaviour and pu
 
 **Dashboard Preview:**
 
-Add your dashboard screenshot here:
 
 ```markdown
 ![Power BI Dashboard](Dashboard/dashboard.png)
